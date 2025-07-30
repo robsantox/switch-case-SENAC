@@ -17,6 +17,10 @@ O Switch Case é um dos projetos do curso Técnico de Desenvolvimento de Sistema
 
 ## Layout web
 
+<img width="1280" height="977" alt="screencapture-robsantox-github-io-switch-case-SENAC-2025-07-30-15_21_33" src="https://github.com/user-attachments/assets/aad681a3-d9a4-4395-a5de-13bc61f8207f" />
+<img width="1280" height="977" alt="screencapture-robsantox-github-io-switch-case-SENAC-2025-07-30-15_21_40" src="https://github.com/user-attachments/assets/8564fe30-a237-4bf4-975a-3291f74634da" />
+<img width="1280" height="977" alt="screencapture-robsantox-github-io-switch-case-SENAC-2025-07-30-15_21_48" src="https://github.com/user-attachments/assets/a1182ae7-28fe-4fc3-ab38-98c7c99380ee" />
+
 
 # Tecnologias utilizadas
 
